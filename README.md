@@ -1,4 +1,4 @@
-# SpaceInvader
+# Space Invader
 
 Development of Space Invaders Game using Python - 
  - Developed the classic Space Invaders Game using Pygame module of python.
